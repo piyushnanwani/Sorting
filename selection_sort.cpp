@@ -1,4 +1,4 @@
-// Selection Sort , array implementation , Increasing order. 
+// Selection Sort , array implementation , Increasing order, Iterative Method. 
 
 #include <iostream>
 #include <math.h>
