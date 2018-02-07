@@ -1,2 +1,3 @@
 # Sorting
-Different types of sorting .
+*Different types of sorting.*
+
