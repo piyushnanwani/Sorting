@@ -1,4 +1,4 @@
-// Bubble Sort , array implementation , Decreasing order. 
+// Bubble Sort , array implementation , Decreasing order, Iterative Method. 
 
 #include <iostream>
 using namespace std;
